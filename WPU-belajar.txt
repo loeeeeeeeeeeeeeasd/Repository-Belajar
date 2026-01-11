@@ -1,4 +1,5 @@
-WPU Belajar (https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
+Link Youtube untuk dipelajari(https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
+List WPU Belajar yang ada di Youtube 
 1. Apa itu Git & Github 
 2. Bekerja dengan Github 
 3. Github : branch 
